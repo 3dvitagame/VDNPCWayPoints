@@ -1,6 +1,6 @@
 # VD NPC WayPoints — Продвинутая система навигации, очередей и интеракций для NPC (UE 5.5+)
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.5%20%7C%205.4%20%7C%205.8-blue?logo=unrealengine)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.5%20%7C%205.7%20%7C%205.8-blue?logo=unrealengine)
 ![Platform](https://img.shields.io/badge/Platform-Win64%20%7C%20Mac%20%7C%20Linux%20%7C%20Android%20%7C%20iOS-brightgreen)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B%20%7C%20Blueprints-orange)
 
